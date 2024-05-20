@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center"><b>Hola, soy Ani </b></h1>
 
-<!--
-**Anigm89/Anigm89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+- **Lenguajes**:
+    
+    https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+    https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+    ![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,php" />
+      </a>
+    </p>
+<br>   
+
