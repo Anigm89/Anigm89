@@ -7,7 +7,7 @@
 
 <p align="center">
 - **Lenguajes**:
-    <p align="center">
+    <p align="left">
         <img src="https://skillicons.dev/icons?i=js,php" />
     </p>
 <br>  
