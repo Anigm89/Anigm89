@@ -9,8 +9,9 @@
 - **Lenguajes**:
     <p align="left">
         <img src="https://skillicons.dev/icons?i=js" />
+    </p>
+     <p align="left">
         <img src="https://skillicons.dev/icons?i=php" />
-
     </p>
 <br>  
 </div>
