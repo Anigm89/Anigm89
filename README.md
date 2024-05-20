@@ -4,7 +4,7 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <br>
 <p>Con más de dos años de experiencia desarrollando sitios web utilizando HTML5, CSS, JavaScript y PHP, he decidido seguir profundizando en JavaScript y ampliar mis conocimientos en frameworks, librerías y otras habilidades de desarrollo.
