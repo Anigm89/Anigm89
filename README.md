@@ -6,10 +6,16 @@
 <br>
 
 <div align="left">
-- **Lenguajes**:
+ <p><b>Lenguajes:</b></p>
     <p align="left">
-        <img src="https://skillicons.dev/icons?i=js" />
-        <img src="https://skillicons.dev/icons?i=php" />
+        <img src="https://skillicons.dev/icons?i=js,php" />
     </p>
-<br>  
+  <br>   
+    
+  <p><b>Front-End:</b></p>
+    <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    </p>
+   
+  <br> 
 </div>
