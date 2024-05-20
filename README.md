@@ -12,10 +12,15 @@
     </p>
   <br>   
     
-  <p><b>Front-End:</b></p>
+ <p><b>Front-End:</b></p>
     <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+        <img src="https://skillicons.dev/icons?i=html" title="html5"/>
+        <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+        <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=react" title="React" />
     </p>
+   
+  <br>   
    
   <br> 
 </div>
