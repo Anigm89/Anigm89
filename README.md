@@ -95,27 +95,24 @@ Actualmente, soy capaz de desarrollar aplicaciones utilizando el stack MERN (Mon
 <div align="center">
 
   <a href="https://github.com/Anigm89/Anigm89">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anigm89&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anigm89&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Anigm89"/>
-
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anigm89&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Anigm89"/>
   </a>
 </div>
 
 <br>
 <br>
-<br>
 
-<hr>>
+<hr>
 <br>
 <br>
 
 ## <b> Contacto:</b>
 <br>
 <div align='left'>
-  <a href="https://www.linkedin.com/in/aniana-gonzalez-moreno/">
+  <a href="https://www.linkedin.com/in/aniana-gonzalez-moreno/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="anigm89@gmail.com">
+  <a href="mailto:anigm89@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
