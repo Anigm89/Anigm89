@@ -106,7 +106,7 @@ Actualmente, soy capaz de desarrollar aplicaciones utilizando el stack MERN (Mon
 <br>
 <br>
 
-## <img src="https://giphy.com/embed/8m4gPv1UFz1jmiCtKd" width="50px" height="50px"/> <b> Portfolio:</b>
+## <img src="https://media.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif" width="50px" height="50px"/> <b> Portfolio:</b>
 
 <br>
 
