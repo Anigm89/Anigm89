@@ -4,7 +4,7 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+## <iframe src="https://giphy.com/embed/paTz7UZbPfTZFRYnnB" width="50px" height="50px" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> **Sobre mí**
 
 <br>
 <p>Con más de dos años de experiencia desarrollando sitios web utilizando HTML5, CSS, JavaScript y PHP, he decidido seguir profundizando en JavaScript y ampliar mis conocimientos en frameworks, librerías y otras habilidades de desarrollo.
@@ -106,7 +106,14 @@ Actualmente, soy capaz de desarrollar aplicaciones utilizando el stack MERN (Mon
 <br>
 <br>
 
-## <b> Contacto:</b>
+## <iframe src="https://giphy.com/embed/8m4gPv1UFz1jmiCtKd" width="50px" height="50px" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> <b> Portfolio:</b>
+
+<br>
+
+<a href="https://portfolioani.netlify.app/"> https://portfolioani.netlify.app/ </a>
+
+
+## <iframe src="https://giphy.com/embed/aGxlZS95wjiSy7l5Zs" width="50" height="50" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><b> Contacto:</b>
 <br>
 <div align='left'>
   <a href="https://www.linkedin.com/in/aniana-gonzalez-moreno/" target="_blank">
