@@ -113,7 +113,7 @@ Actualmente, soy capaz de desarrollar aplicaciones utilizando el stack MERN (Mon
 <a href="https://portfolioani.netlify.app/"> https://portfolioani.netlify.app/ </a>
 
 
-## <img src="https://media.giphy.com/media/aGxlZS95wjiSy7l5Zs/giphy.gif" width="50px" height="50px"/> <b> Contacto:</b>
+## <img src="https://media.giphy.com/media/UXrEneUB2iHxB7tLXw/giphy.gif" width="50px" height="50px"/> <b> Contacto:</b>
 <br>
 <div align='left'>
   <a href="https://www.linkedin.com/in/aniana-gonzalez-moreno/" target="_blank">
