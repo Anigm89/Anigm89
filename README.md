@@ -61,7 +61,7 @@ Actualmente, soy capaz de desarrollar aplicaciones utilizando el stack MERN (Mon
         <img src="https://camo.githubusercontent.com/30faf3fc6375a0cba1804f49f36410f90008174407a014c6c940a3826239d991/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47697448756225323050616765732d3332374643373f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" title="GitHub Pages" />
         <img src="https://camo.githubusercontent.com/4c6590c569d6b5b3c9cd6e674c80da8d860a6b0827124aeab237188f6d19f2e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666c61742d737175617265266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465" title="netlify"/>
         <img src="https://camo.githubusercontent.com/2caaa12f46ea5731e7886988c71117585967504ca10c66a722da67c6fb8707cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5261696c7761792d3042304430453f7374796c653d666c61742d737175617265266c6f676f3d7261696c776179266c6f676f436f6c6f723d7768697465" title="Railway" />
-        <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" title="Render"  height="20px"/>
+        <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" title="Render" height="20px" />
      </p>
     
   <br>
@@ -70,7 +70,7 @@ Actualmente, soy capaz de desarrollar aplicaciones utilizando el stack MERN (Mon
      <p align="left">
         <img src="https://skillicons.dev/icons?i=npm" title="npm"/>
         <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
-        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title="Vite" />
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title="Vite" height="20px" />
         <img src="https://camo.githubusercontent.com/92e5f6f5cec3a342564f740dabb60e27181ca03a8c1b5b2ac4f3b4a0554e3a79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537761676765722d3835454132443f7374796c653d666c61742d737175617265266c6f676f3d73776167676572266c6f676f436f6c6f723d7768697465" title="Swagger" />
         <img src="https://skillicons.dev/icons?i=git" title="Git" />
         <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
